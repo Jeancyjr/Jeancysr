@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jeancyjr
-- 👀 I’m interested in 
-- 🌱 I’m currently learning css & Python
+- 👋 Hi, I’m @JeancySr
+- 👀 I’m interested in Tech
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
