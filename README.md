@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JeancySr
+- 👋 Hi, I’m @Jeancysr
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
